@@ -590,12 +590,13 @@ input.cup{
 
 
 
-@media (max-width: 414px){
+@media (max-width: 414px)
+{
     .box-med
     {
-        width: 101%;
-        height: 369px;
-        object-fit: contain;
+        width: 109%;
+        height: 510px;
+        object-fit: cover;
     }
     .box-med-2
     {
