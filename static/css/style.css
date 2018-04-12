@@ -591,36 +591,45 @@ input.cup{
 
 
 @media (max-width: 414px){
-.box-med {
-    width: 101%;
-    height: 369px;
-    object-fit: contain;
-}
-.linea-prefooter {
-    width: 92%;
-}
-.cli {
-    margin-bottom: 11px !important;
-    margin-top: -8px;
-}
+    .box-med
+    {
+        width: 101%;
+        height: 369px;
+        object-fit: contain;
+    }
+    .banner-principal
+    {
+        margin-bottom: 10px;
+    }
+    .linea-prefooter
+    {
+        width: 92%;
+    }
+    .cli
+    {
+        margin-bottom: 11px !important;
+        margin-top: -8px;
+    }
 
-.article-ho{
-   margin-bottom: 11px !important;
-}
-
-
-.total-modal {
-    text-align: right;
-    padding-right: 0px !important;
-}
-.pre-footer {
-    width: 105%!important;
-    height: 200px;
-    margin-left: 3.2%;
-}
-.linea-pre-footer {
-    display: none;
-}
+    .article-ho
+    {
+       margin-bottom: 11px !important;
+    }
+    .total-modal
+    {
+        text-align: right;
+        padding-right: 0px !important;
+    }
+    .pre-footer
+    {
+        width: 105%!important;
+        height: 200px;
+        margin-left: 3.2%;
+    }
+    .linea-pre-footer
+    {
+        display: none;
+    }
 }
 
 @media (max-width: 375px){
