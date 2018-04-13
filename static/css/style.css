@@ -599,6 +599,12 @@ input.cup{
         object-fit: contain;
     }
 
+    .box-med-2
+    {
+        height: auto;
+        margin-bottom: 10px !important;
+    }
+
     .banner-principal
     {
         margin-bottom: 10px;
@@ -673,6 +679,11 @@ input.cup{
         height: auto;
         object-fit: contain;
         margin-bottom: 75px;
+    }
+
+    img#placare-produccion_banner_mov
+    {
+        margin-top: 50px;
     }
 
     .cli
