@@ -595,13 +595,16 @@ input.cup{
     .box-med
     {
         width: 109%;
-        height: 510px;
-        object-fit: cover;
+        height: auto;
+        object-fit: contain;
     }
+
     .box-med-2
     {
-        height: 460px !important;
+        height: auto;
+        margin-bottom: 10px !important;
     }
+
     .banner-principal
     {
         margin-bottom: 10px;
@@ -653,8 +656,8 @@ input.cup{
 
     .box-med-2
     {
-        height: 360px!important;
-        margin-bottom: 20px;
+        height: auto;
+        margin-bottom: 10px !important;
     }
 
 }
@@ -672,10 +675,15 @@ input.cup{
 
     .box-med
     {
-        width: 101%;
-        height: 369px;
+        width: 109%;
+        height: auto;
         object-fit: contain;
-        margin-bottom: 0px;
+        margin-bottom: 75px;
+    }
+
+    img#placare-produccion_banner_mov
+    {
+        margin-top: 50px;
     }
 
     .cli
@@ -686,9 +694,8 @@ input.cup{
 
     .box-med-2
     {
-        height: 360px!important;
+        height: auto;
         width: 111% !important;
-        margin-bottom: -14px !important;
     }
 
     .article-ho
