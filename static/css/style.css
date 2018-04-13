@@ -594,7 +594,7 @@ input.cup{
 {
     .box-med
     {
-        width: 109%;
+        width: 100%;
         height: auto;
         object-fit: contain;
     }
@@ -635,7 +635,7 @@ input.cup{
     }
     .pre-footer
     {
-        width: 105%!important;
+        width: 95%!important;
         height: 200px;
         margin-left: 3.2%;
     }
