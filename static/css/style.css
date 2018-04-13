@@ -599,6 +599,11 @@ input.cup{
         object-fit: contain;
     }
 
+    img#placare-produccion_banner_mov
+    {
+        margin-top: 30px;
+    }
+
     .box-med-2
     {
         height: auto;
@@ -662,11 +667,13 @@ input.cup{
 
 }
 
-@media (max-width: 360px){
-    .cli {
-    margin-bottom: 11px !important;
-    margin-top: -27px;
-}
+@media (max-width: 360px)
+{
+    .cli
+    {
+        margin-bottom: 11px !important;
+        margin-top: -27px;
+    }
 
 }
 
@@ -696,6 +703,7 @@ input.cup{
     {
         height: auto;
         width: 111% !important;
+        margin-bottom: 75px!important;
     }
 
     .article-ho
