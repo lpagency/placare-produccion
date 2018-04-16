@@ -682,7 +682,7 @@ input.cup{
 
     .box-med
     {
-        width: 109%;
+        width: 101%;
         height: auto;
         object-fit: contain;
         margin-bottom: 75px;
@@ -702,7 +702,7 @@ input.cup{
     .box-med-2
     {
         height: auto;
-        width: 111% !important;
+        width: 103%!important;
         margin-bottom: 75px!important;
     }
 
@@ -711,12 +711,13 @@ input.cup{
         margin-bottom: -64px !important;
     }
 
-.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
-    padding: 8px;
-    line-height: 1.42857143;
-    vertical-align: top;
-    border-top: 1px solid #ddd;
-    font-size: 11px;
-}
+    .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td
+    {
+        padding: 8px;
+        line-height: 1.42857143;
+        vertical-align: top;
+        border-top: 1px solid #ddd;
+        font-size: 11px;
+    }
 
 }
